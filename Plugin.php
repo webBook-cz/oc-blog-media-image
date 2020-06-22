@@ -16,7 +16,7 @@ class Plugin extends PluginBase
     public function pluginDetails(): array
     {
         return [
-            'name'        => 'Blog image Swap',
+            'name'        => 'Blog Media Image',
             'description' => 'A RainLab.Blog extension adding banner image via Media Manager to posts.',
             'author'      => 'WebBook',
             'icon'        => 'icon-file-image-o',
