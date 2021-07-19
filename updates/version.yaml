@@ -1,2 +1,4 @@
 1.0.1:
     - 'Initialize Blog-Media-Image plugin.'
+1.0.2:
+    - 'Add composer.json file'
